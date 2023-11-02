@@ -3,7 +3,7 @@ import 'hextoint.dart';
 
 
 
-Color primary = Color.fromRGBO(28, 40, 51, 0.8);
+Color primary = const Color.fromRGBO(28, 40, 51, 0.8);
 Color secondary = Colors.black;
 Color primaryButtonColor =   Colors.orangeAccent; //HexColor("e74c3c");
 Color secondaryButtonColor = HexColor("212f3c");
